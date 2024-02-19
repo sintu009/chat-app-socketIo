@@ -20,11 +20,12 @@
 
 ## screenshots
 
-![img1](https://github.com/sintu009/chat-app-socket.Io/assets/98889943/4c54ed5a-115c-4b37-8fa0-9e183acb88ab)
+![img1](https://github.com/sintu009/chat-app-socketIo/assets/98889943/aa01788a-b1a0-4783-91a7-c3259bc1c62e)
+
 
 ## chat messages temporarily (without using a database).
 
-![image](https://github.com/sintu009/chat-app-socket.Io/assets/98889943/eec54087-60d1-4f64-9b61-0c3b2cadf0ea)
+![image](https://github.com/sintu009/chat-app-socketIo/assets/98889943/ece269c4-66d0-4538-8d95-6f2ec403e2ed)
 
 
 
